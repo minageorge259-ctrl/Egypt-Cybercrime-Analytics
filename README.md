@@ -46,6 +46,8 @@ Egypt-Cybercrime-Analytics/
 ├── Images/
 └── Docs/
 ```
+## project links 
+https://github.com/minageorge259-ctrl/Egypt-Cybercrime-Analytics/blob/main/Egypt_Cybercrime_Analysis.ipynb
 
 ---
 
