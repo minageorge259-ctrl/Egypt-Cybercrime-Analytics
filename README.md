@@ -1,34 +1,32 @@
 # 🛡️ Egypt Cybercrime Analytics
 
-A comprehensive Data Analytics project that analyses cybercrime incidents in Egypt using Python, SQL Server, Microsoft Excel, and Power BI.
+A comprehensive Data Analytics project that analyzes cybercrime incidents in Egypt using **Python, SQL Server, Microsoft Excel, and Power BI**. The project transforms raw data into meaningful insights through data cleaning, exploratory data analysis, SQL querying, and interactive dashboards to support data-driven decision-making.
 
 ---
 
-## 📌 Project Overview
+## 📖 Project Overview
 
-The purpose of this project is to analyse cybercrime data in Egypt to uncover fraud patterns, measure financial losses, identify high-risk cases, and support data-driven decision making through interactive dashboards and business intelligence techniques.
+This project aims to analyze cybercrime incidents across Egypt by exploring fraud patterns, financial losses, recovery performance, and regional distributions. Using modern data analytics and business intelligence tools, the project provides interactive dashboards that help users better understand cybercrime trends and support informed decision-making.
 
 ---
 
 ## 🎯 Project Objectives
 
-- Clean and prepare raw cybercrime data
-- Perform feature engineering
-- Analyse cybercrime trends
-- Identify high-risk incidents
-- Build interactive dashboards
-- Generate business insights and recommendations
+- 🧹 Clean and preprocess the dataset.
+- 📊 Perform Exploratory Data Analysis (EDA).
+- 🔍 Identify cybercrime trends and patterns.
+- 💰 Analyze financial losses and recovery performance.
+- 📈 Develop interactive dashboards using Excel and Power BI.
+- 💡 Generate actionable insights for decision-making.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Technologies Used
 
-- Python
-- Pandas
-- NumPy
-- SQL Server
-- Power BI
-- Microsoft Excel
+- 🐍 Python (Pandas, NumPy)
+- 🗄️ SQL Server
+- 📊 Microsoft Excel
+- 📈 Microsoft Power BI
 
 ---
 
@@ -40,53 +38,47 @@ Egypt-Cybercrime-Analytics/
 ├── Dataset/
 ├── Python/
 ├── SQL/
-├── Power BI/
 ├── Excel/
+├── Power BI/
 ├── Presentation/
 ├── Images/
 └── Docs/
 ```
-## project links 
-https://github.com/minageorge259-ctrl/Egypt-Cybercrime-Analytics/blob/main/Egypt_Cybercrime_Analysis.ipynb
 
 ---
-## ✨ Key Features
 
-- 📊 Interactive KPIs
+## 📊 Dashboard Features
+
+- 📌 Interactive KPI Cards
 - 💰 Financial Loss Analysis
-- 🗺️ Governorate Analysis
+- 🗺️ Geographic Analysis by Governorate
 - 💳 Payment Method Analysis
 - 📈 Monthly Trend Analysis
-- 🚨 Scam Type Analysis
+- 🚨 Fraud Type Analysis
 - 📱 Device Risk Analysis
-- 🎛️ Dynamic Filters
-![Execldashboard](https://github.com/minageorge259-ctrl/Egypt-Cybercrime-Analytics/blob/main/1.png)
-
-## 📊 Dashboard KPIs
-
-- Total Cases
-- Total Financial Loss
-- Average Recovery Days
-- High Risk Cases
-- Recovery Rate
+- 🎛️ Interactive Filters and Slicers
 
 ---
 
-## 📈 Project Workflow
+## 🔄 Project Workflow
 
 1. Data Collection
-2. Data Cleaning
-3. Feature Engineering
-4. Exploratory Data Analysis (EDA)
+2. Data Cleaning & Preprocessing
+3. Exploratory Data Analysis (EDA)
+4. Feature Engineering
 5. SQL Analysis
 6. Dashboard Development
-7. Business Insights
+7. Insights & Reporting
 
 ---
 
-## 📸 Project Preview
+## 📌 Key Insights
 
-> Dashboard screenshots are available in the **Images** folder.
+- 📍 Identified the governorates with the highest cybercrime activity.
+- 💳 Analyzed the distribution of payment methods.
+- 📈 Tracked cybercrime trends over time.
+- 💰 Evaluated financial losses and recovery performance.
+- 📊 Built interactive dashboards to support business intelligence and decision-making.
 
 ---
 
@@ -103,8 +95,10 @@ https://github.com/minageorge259-ctrl/Egypt-Cybercrime-Analytics/blob/main/Egypt
 
 **Mina George**
 
-Data Analyst | Power BI | SQL | Python | Excel
+**Data Analyst | Python | SQL | Excel | Power BI**
 
 ---
 
-## ⭐ If you found this project useful, don't forget to give it a Star!
+## ⭐ Support
+
+If you found this project useful, consider giving it a **Star ⭐**.
