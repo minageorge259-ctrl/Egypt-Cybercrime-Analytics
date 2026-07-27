@@ -50,16 +50,16 @@ Egypt-Cybercrime-Analytics/
 https://github.com/minageorge259-ctrl/Egypt-Cybercrime-Analytics/blob/main/Egypt_Cybercrime_Analysis.ipynb
 
 ---
-## 📊 Dashboard
-✨ Key Highlights
-📌 45,372 Total Fraud Cases
-💰 369.2M EGP Total Financial Loss
-🏙️ Cairo recorded the highest number of fraud cases
-💳 Bank Transfer was the most frequently used payment method
-📊 Interactive charts for fraud trends and scam categories
-🗺️ Geographic analysis by governorate
-⚠️ Risk level analysis across different devices
-🎯 Dynamic filters for deeper data exploration
+## ✨ Key Features
+
+- 📊 Interactive KPIs
+- 💰 Financial Loss Analysis
+- 🗺️ Governorate Analysis
+- 💳 Payment Method Analysis
+- 📈 Monthly Trend Analysis
+- 🚨 Scam Type Analysis
+- 📱 Device Risk Analysis
+- 🎛️ Dynamic Filters
 ![Execldashboard](https://github.com/minageorge259-ctrl/Egypt-Cybercrime-Analytics/blob/main/1.png)
 
 ## 📊 Dashboard KPIs
