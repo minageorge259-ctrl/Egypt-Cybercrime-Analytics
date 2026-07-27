@@ -50,6 +50,8 @@ Egypt-Cybercrime-Analytics/
 https://github.com/minageorge259-ctrl/Egypt-Cybercrime-Analytics/blob/main/Egypt_Cybercrime_Analysis.ipynb
 
 ---
+## 📊 Dashboard
+![Execldashboard](https://github.com/minageorge259-ctrl/Egypt-Cybercrime-Analytics/blob/main/1.png)
 
 ## 📊 Dashboard KPIs
 
